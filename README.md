@@ -1,0 +1,1 @@
+Questo codice python serve per estrapolare informazioni da un file .ifc e caricarle in vari file .csv, divise per categoria. Non ha limiti di grandezza per i file di input, a differenza di alcune applicazini
